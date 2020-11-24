@@ -1,3 +1,3 @@
 # python_spammer
 
-Python uses pyautogui to repeatitively type text. 
+Python uses pyautogui to repetitively type text. 
