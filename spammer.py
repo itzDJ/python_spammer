@@ -1,9 +1,9 @@
 import pyautogui
 import time
 
-run == True
-if run:
-    time.sleep(2)
-        pyautogui.typewrite("legit")
-        pyautogui.press("enter")
-        time.sleep(0.5)
+time.sleep(2)
+num = -1
+while num != 0:
+    pyautogui.typewrite("test")
+    pyautogui.press("enter")
+    time.sleep(0.5)
